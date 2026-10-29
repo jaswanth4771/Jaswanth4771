@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Jaswanth! 👋
+
+🎓 College Student
+🌱 Learning programming
+💻 Exploring software development
+
+Thanks for visiting my profile!
 
 <!--
 **jaswanth4771/Jaswanth4771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
